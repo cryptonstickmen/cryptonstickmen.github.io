@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcA4f786bF85431c530F162412A1C7de640E855af",
+  "SCAN_LINK": "https://polygonscan.com/address/0xcA4f786bF85431c530F162412A1C7de640E855af",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypton Stickmen",
+  "SYMBOL": "Crypton Stickman",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 9000000000000000000,
+  "DISPLAY_COST": 9,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypton-stickmen-v2",
+  "SHOW_BACKGROUND": false
+}
