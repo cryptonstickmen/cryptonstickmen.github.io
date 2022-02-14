@@ -6,7 +6,7 @@
   --accent: #505050;
   --accent-text: #ffffff;
 
-  background-image: url("/dapp/config/images/bg.jpg");
+  background-image: url("/config/images/bg.jpg");
     background-size:     cover;                      /* <------ */
   background-repeat:   no-repeat;
   background-position: center center;              /* optional, center the image */
